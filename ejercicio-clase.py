@@ -11,7 +11,7 @@ usuario = {
     "apellido": "Zalazar",
     "edad": 28,
     "dinero": 4569,
-    "gastos": (453, 234, 234, 1234)
+    "gastos": [453, 234, 234, 1234]
 }
 
 
