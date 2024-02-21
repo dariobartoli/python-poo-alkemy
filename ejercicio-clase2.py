@@ -49,8 +49,8 @@ libro3 = Libro("Cancion de Hielo y Fuego", "George RR Martin", 21000, 455, "dura
 
 
 musica1 = Musica("Fix you", "Coldplay", 3000, "Pop-rock", "172s")
-musica2 = Musica("The Scientist", "Coldplay", 3000, "Pop-rock", "172s")
-musica3 = Musica("In my place", "Coldplay", 3000, "Pop-rock", "172s")
+musica2 = Musica("The Scientist", "Coldplay", 2700, "Pop-rock", "165s")
+musica3 = Musica("In my place", "Coldplay", 3100, "Pop-rock", "189s")
 
 pelicula1 = Pelicula("Spiderman", "Sam Raimi", 15000, "accion", "G")
 pelicula2 = Pelicula("El exorcista", "John Borman", 14500, "terror", "R")
